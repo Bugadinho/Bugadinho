@@ -1,13 +1,13 @@
 # Bugadinho
 
 ## Goals
-* [ ] Getting a degree in computer science
-* [ ] Making something that is actually useful
+* [ ] Get a degree in computer science
+* [ ] Make something that is actually useful
 
 ## Main interests
 * C# and .NET
 * Python
-* Game developing
+* Game development
 
 ## Getting in touch
 * **Discord**: Bugadinho#5769
