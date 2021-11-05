@@ -25,7 +25,7 @@
 * **CPU:** AMD FX-8320E
 * **RAM:** 32GB (4x8GB) Kingston ValueRAM
 * **GPU:** GeForce GTX 960 (4GB)
-* **OS:** Windows 10
+* **OS:** Fedora Workstation
 
 ## Getting in touch
 * ***Bugadinho***#**5769**
