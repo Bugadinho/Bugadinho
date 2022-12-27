@@ -22,10 +22,10 @@
 * [ ] Get a degree in computer science
 
 ## My "Workstation"
-* **CPU:** AMD FX-8320E
-* **RAM:** 32GB (4x8GB) Kingston ValueRAM
+* **CPU:** i5-3570K
+* **RAM:** 16GB (2x8GB) Kingston ValueRAM
 * **GPU:** GeForce GTX 960 (4GB)
-* **OS:** Fedora Workstation
+* **OS:** Fedora Silverblue
 
 ## Getting in touch
 * ***Bugadinho***#**5769**
