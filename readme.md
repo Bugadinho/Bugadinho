@@ -24,7 +24,7 @@
 ## My "Workstation"
 * **CPU:** i5-3570K
 * **RAM:** 16GB (2x8GB) Kingston ValueRAM
-* **GPU:** GeForce GTX 960 (4GB)
+* **GPU:** Tesla M40 (12GB)
 * **OS:** Fedora Silverblue
 
 ## Getting in touch
